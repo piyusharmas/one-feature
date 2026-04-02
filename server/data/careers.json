@@ -1,0 +1,12 @@
+{
+  "software_engineer": {
+    "skills": ["JavaScript", "DSA", "React", "Node.js", "System Design"],
+    "demand": "High",
+    "growth": "Rising"
+  },
+  "data_analyst": {
+    "skills": ["Python", "SQL", "Excel", "Statistics"],
+    "demand": "High",
+    "growth": "Stable"
+  }
+}
